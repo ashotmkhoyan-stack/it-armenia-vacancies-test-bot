@@ -30,12 +30,25 @@ class HHruScraper(BaseScraper):
     async def fetch_vacancies(self) -> List[Vacancy]:
         vacancies: List[Vacancy] = []
 
+        # Профессиональные роли IT в hh.ru (можно расширить)
+        # Полный список: https://api.hh.ru/professional_roles
+        IT_ROLES = [
+            "96",   # Программист, разработчик
+            "160",  # Аналитик
+            "10",   # Тестировщик
+            "12",   # Технический директор
+            "150",  # DevOps
+            "25",   # Менеджер проекта (IT)
+            "36",   # Data Scientist
+            "73",   # Дизайнер (UX/UI)
+            "164",  # Сетевой инженер
+            "165",  # Системный администратор
+        ]
         params = {
             "area": ARMENIA_AREA_ID,
             "per_page": PER_PAGE,
             "page": 0,
-            "only_with_salary": False,
-            "professional_role": None,  # все IT-роли — фильтруем сами
+            "professional_role": IT_ROLES,
         }
 
         try:
