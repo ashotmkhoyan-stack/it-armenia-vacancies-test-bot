@@ -1,0 +1,664 @@
+{
+  "headers": {
+    "apptype": "next",
+    "version": "0.001",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0",
+    "guestauth": "guest-user-3425e7ab0c41a6b6",
+    "x-forwarded-for": "217.113.11.173"
+  },
+  "isMobile": false,
+  "NEXT_PUBLIC_API_URL": "https://api.staff.am",
+  "NEXT_PUBLIC_MAIN_PAGE_URL": "https://staff.am",
+  "NEXT_PUBLIC_IMAGES_PATH_URL": "https://cdn.staff.am/",
+  "job": {
+    "history": 28,
+    "activeJobs": 4,
+    "viewCount": 260,
+    "likeCount": 0,
+    "job_type": {
+      "id": 1,
+      "title": {
+        "ru": "Полная ставка",
+        "en": "Full time",
+        "am": "Ամբողջ դրույք"
+      }
+    },
+    "questionnaire_id": null,
+    "is_remote": false,
+    "required_qualifications": {
+      "ru": "",
+      "en": "<ul>\n\t<li>At least 5 years of software development experience </li>\n\t<li>Experience working in frontend-focused teams </li>\n\t<li>Experience in component-based development </li>\n\t<li>Extensive knowledge of JavaScript (JS) and TypeScript (TS) along with one of the following – Angular/React </li>\n\t<li>Proficiency in writing automated tests </li>\n\t<li>Ability to work with existing codebases </li>\n</ul>\n\n<p> </p>\n",
+      "am": ""
+    },
+    "salary_currency": "AMD",
+    "description": {
+      "ru": "",
+      "en": "<p>Our team takes full ownership of DevExtreme product libraries and shapes its future – from business requirement analysis with product managers to development, documentation, and ongoing engineering support.<br />\nWe prioritize code quality, extensive test coverage, and a thoughtful approach to API design throughout the development cycle (to help ensure security, quality, and product reliability). To accomplish these objectives, we employ many programming practices, including Test-Driven Development (TDD), pair programming, and code reviews.<br />\nWe offer positive feedback to one another, reinforce success, and strive to help all team members grow and evolve.   </p>\n",
+      "am": ""
+    },
+    "salary": {
+      "ru": "",
+      "en": "",
+      "am": ""
+    },
+    "title": {
+      "ru": "Senior Frontend Developer ",
+      "am_en": "Senior Frontend Developer ",
+      "en": "Senior Frontend Developer ",
+      "am": "Senior Frontend Developer "
+    },
+    "skills": [
+      {
+        "id": 1652597,
+        "type": 2,
+        "title": {
+          "ru": "JavaScript",
+          "en": "JavaScript",
+          "am": "JavaScript"
+        }
+      },
+      {
+        "id": 1652598,
+        "type": 2,
+        "title": {
+          "ru": "TypeScript",
+          "en": "TypeScript",
+          "am": "TypeScript"
+        }
+      },
+      {
+        "id": 1652599,
+        "type": 2,
+        "title": {
+          "ru": "Angular",
+          "en": "Angular",
+          "am": "Angular"
+        }
+      },
+      {
+        "id": 1652600,
+        "type": 2,
+        "title": {
+          "ru": "React",
+          "en": "React",
+          "am": "React"
+        }
+      }
+    ],
+    "job_term": {
+      "id": 1,
+      "title": {
+        "ru": "Постоянный",
+        "en": "Permanent",
+        "am": "Մշտական"
+      }
+    },
+    "responsibilities": {
+      "ru": "",
+      "en": "<ul>\n\t<li>Develop and maintain UI libraries with advanced architecture/design. </li>\n\t<li>Manage/drive product dev cycle, from design to testing. </li>\n\t<li>Refactor and optimize existing modules/code. </li>\n\t<li>Engage user community to improve product libraries. </li>\n\t<li>Communicate with DevExpress support engineers/developers within the scope of responsibility. </li>\n\t<li>Implement complex technical solutions. </li>\n\t<li>Conduct technical analysis and form architectural solutions. </li>\n\t<li>Propose and justify technical initiatives, optimizing technical processes. </li>\n\t<li>Estimate and decompose tasks, and validate technical output. </li>\n</ul>\n",
+      "am": ""
+    },
+    "salary_from": null,
+    "job_candidate_level": {
+      "id": 4,
+      "title": {
+        "ru": "Старший",
+        "en": "Senior",
+        "am": "Ավագ"
+      }
+    },
+    "job_city": {
+      "id": 34,
+      "title": {
+        "ru": "Ереван",
+        "en": "Yerevan",
+        "am": "Երևան"
+      }
+    },
+    "id": 153625,
+    "deadline": "2026-04-03",
+    "companiesStruct": {
+      "header_image": {
+        "ru": "https://cdn.staff.am/staff.am/upload/7/5/6/c/756c1d6a.png",
+        "en": "https://cdn.staff.am/staff.am/upload/7/5/6/c/756c1d6a.png",
+        "am": "https://cdn.staff.am/staff.am/upload/7/5/6/c/756c1d6a.png"
+      },
+      "is_goverment_company": false,
+      "company_website": "https://www.devexpress.com/",
+      "title": {
+        "ru": "DevSoft AM",
+        "en": "DevExpress",
+        "am": "DevSoft AM"
+      },
+      "is_unlimited": 0,
+      "is_verified": true,
+      "company_address": {
+        "en": "Glendale",
+        "ru": "3 Mesrop Mashtoc pokhota",
+        "am": "3 Մեսրոպ Մաշտոց պողոտա"
+      },
+      "domain_id": 1,
+      "profile_image": "https://cdn.staff.am/staff.am/upload/5/1/e/e/51ee9e2d.png",
+      "phone": "",
+      "location": "-118.2488703,34.1463674",
+      "id": 6740,
+      "has_application_form": false,
+      "slug": "devsoft-am",
+      "isEmptyProfileImage": false,
+      "benefit": [],
+      "testimonials": [],
+      "about_company": "<p>DevExpress (Developer Express) is a software development company based in the United States.<br />\nIt produces coding assistance/productivity tools, application frameworks and component libraries for JavaScript (JS/TS), C#/Visual Studio, and Delphi/C++ Builder developers. The major part of its product line is React/Angular/Vue/jQuery, Microsoft .NET WinForms, WPF, .NET MAUI, ASP.NET Core Blazor/MVC/Razor Pages, and VCL components that replicate the UI of Microsoft Windows and Microsoft Office applications. <br />\nDevExpress helps you build applications for Windows, Web, mobile with all of the DevExpress platform controls and more (Enterprise and Server Tools like Reporting, BI Dashboard, Office File APIs, Application Framework and ORM).<br />\nDevExpress has won many industry awards for its products.<br />\nLearn more at <a href=\"https://www.devexpress.com/aboutus/\">https://www.devexpress.com/aboutus/</a>.</p>\n",
+      "gallery": [],
+      "industry": "Information technologies",
+      "view_count": 3832,
+      "city": {
+        "id": 42619,
+        "title": {
+          "en": "Glendale",
+          "ru": "Glendale",
+          "am": "Glendale"
+        }
+      },
+      "country": {
+        "id": 42619,
+        "title": {
+          "en": "United States",
+          "ru": "Соединенные Штаты",
+          "am": "Ամերիկայի Միացյալ Նահանգներ"
+        }
+      },
+      "followers_count": 9
+    },
+    "slug": {
+      "ru": "senior-frontend-developer-73",
+      "en": "senior-frontend-developer-72",
+      "am": "senior-frontend-developer-74"
+    },
+    "application_procedures": {
+      "ru": "",
+      "en": "",
+      "am": ""
+    },
+    "is_repat": 0,
+    "salary_period": 1,
+    "salary_to": null,
+    "tags": [],
+    "additional_information": {
+      "ru": "",
+      "en": "<p>Nice to have </p>\n\n<ul>\n\t<li>Mentorship experiences/abilities </li>\n\t<li>Leadership experience/abilities </li>\n\t<li>Experience in product/technical analysis or planning </li>\n</ul>\n",
+      "am": ""
+    },
+    "job_country": {
+      "id": 1,
+      "title": {
+        "ru": "Армения",
+        "en": "Armenia",
+        "am": "Հայաստանի Հանրապետություն"
+      }
+    },
+    "salary_type": {
+      "ru": "На руки",
+      "en": "Net",
+      "am": "Մաքուր"
+    },
+    "category": {
+      "code": "software-development",
+      "id": 1,
+      "title": {
+        "ru": "Программирование",
+        "en": "Software development",
+        "am": "Ծրագրավորում"
+      }
+    },
+    "job_url": "",
+    "status": 1,
+    "apply_type": 0,
+    "relatedTrainings": [],
+    "is_following": false,
+    "hr_mail": "senior-fro-312739@e.staff.am",
+    "relJobs": [
+      {
+        "is_hot": false,
+        "is_remote": true,
+        "job_city": {
+          "title": {
+            "ru": "Ереван",
+            "en": "Yerevan",
+            "am": "Երևան"
+          }
+        },
+        "id": 152549,
+        "title": {
+          "ru": "Senior Frontend Developer ",
+          "am_en": "Senior Frontend Developer ",
+          "en": "Senior Frontend Developer (React Native)",
+          "am": "Senior Frontend Developer "
+        },
+        "deadline": "2026-03-19",
+        "companiesStruct": {
+          "domain_id": 1,
+          "profile_image": "https://cdn.staff.am/staff.am/upload/8/f/8/2/8f82e433.png",
+          "title": {
+            "ru": "NextChallenge",
+            "en": "NextChallenge",
+            "am": "NextChallenge"
+          },
+          "is_unlimited": 0,
+          "is_verified": false,
+          "isEmptyProfileImage": false
+        },
+        "category": {
+          "code": "software-development",
+          "id": 1,
+          "title": {
+            "ru": "Программирование",
+            "en": "Software development",
+            "am": "Ծրագրավորում"
+          }
+        },
+        "slug": {
+          "ru": "senior-frontend-developer-70",
+          "en": "senior-frontend-developer-react-native-3",
+          "am": "senior-frontend-developer-71"
+        },
+        "status": 1,
+        "saved_job_id": false,
+        "like_id": false,
+        "is_featured": false,
+        "likeCount": 0,
+        "is_following": false
+      },
+      {
+        "is_hot": false,
+        "is_remote": false,
+        "job_city": {
+          "title": {
+            "ru": "Ереван",
+            "en": "Yerevan",
+            "am": "Երևան"
+          }
+        },
+        "id": 151886,
+        "title": {
+          "ru": "Middle Frontend Developer (React.js)",
+          "am_en": "Middle Frontend Developer (React.js)",
+          "en": "Middle Frontend Developer (React.js)",
+          "am": "Middle Frontend Developer (React.js)"
+        },
+        "deadline": "2026-03-05",
+        "companiesStruct": {
+          "domain_id": 1,
+          "profile_image": "https://cdn.staff.am/staff.am/upload/5/2/a/7/52a735f3.png",
+          "title": {
+            "ru": "Kipoff",
+            "en": "Kipoff Digital Agency",
+            "am": "Kipoff"
+          },
+          "is_unlimited": 0,
+          "is_verified": false,
+          "isEmptyProfileImage": false
+        },
+        "category": {
+          "code": "software-development",
+          "id": 1,
+          "title": {
+            "ru": "Программирование",
+            "en": "Software development",
+            "am": "Ծրագրավորում"
+          }
+        },
+        "slug": {
+          "ru": "middle-frontend-developer-reactjs-4",
+          "en": "middle-frontend-developer-reactjs-1",
+          "am": "middle-frontend-developer-reactjs-5"
+        },
+        "status": 1,
+        "saved_job_id": false,
+        "like_id": false,
+        "is_featured": false,
+        "likeCount": 0,
+        "is_following": false
+      },
+      {
+        "is_hot": false,
+        "is_remote": false,
+        "job_city": {
+          "title": {
+            "ru": "Ереван",
+            "en": "Yerevan",
+            "am": "Երևան"
+          }
+        },
+        "id": 153585,
+        "title": {
+          "ru": "Senior Backend Developer",
+          "am_en": "Senior Backend Developer",
+          "en": "Senior Backend Developer",
+          "am": "Senior Backend Developer"
+        },
+        "deadline": "2026-03-31",
+        "companiesStruct": {
+          "domain_id": 1,
+          "profile_image": null,
+          "title": {
+            "ru": "Nika S.A. LLC",
+            "en": "Nika S.A. LLC",
+            "am": "Nika S.A. LLC"
+          },
+          "is_unlimited": 0,
+          "is_verified": false,
+          "isEmptyProfileImage": true
+        },
+        "category": {
+          "code": "software-development",
+          "id": 1,
+          "title": {
+            "ru": "Программирование",
+            "en": "Software development",
+            "am": "Ծրագրավորում"
+          }
+        },
+        "slug": {
+          "ru": "senior-backend-developer-140",
+          "en": "senior-backend-developer-138",
+          "am": "senior-backend-developer-139"
+        },
+        "status": 1,
+        "saved_job_id": false,
+        "like_id": false,
+        "is_featured": false,
+        "likeCount": 0,
+        "is_following": false
+      },
+      {
+        "is_hot": false,
+        "is_remote": false,
+        "job_city": {
+          "title": {
+            "ru": "Ереван",
+            "en": "Yerevan",
+            "am": "Երևան"
+          }
+        },
+        "id": 152931,
+        "title": {
+          "ru": "Senior .Net Developer",
+          "am_en": "Senior .Net Developer",
+          "en": "Senior .Net Developer",
+          "am": "Senior .Net Developer"
+        },
+        "deadline": "2026-03-15",
+        "companiesStruct": {
+          "domain_id": 1,
+          "profile_image": "https://cdn.staff.am/staff.am/upload/9/c/5/2/9c5265bd.jpg",
+          "title": {
+            "ru": "Fast Bank CJSC",
+            "en": "Fast Bank CJSC",
+            "am": "Fast Bank CJSC"
+          },
+          "is_unlimited": 1,
+          "is_verified": true,
+          "isEmptyProfileImage": false
+        },
+        "category": {
+          "code": "software-development",
+          "id": 1,
+          "title": {
+            "ru": "Программирование",
+            "en": "Software development",
+            "am": "Ծրագրավորում"
+          }
+        },
+        "slug": {
+          "ru": "senior-net-developer-907",
+          "en": "senior-net-developer-906",
+          "am": "senior-net-developer-908"
+        },
+        "status": 1,
+        "saved_job_id": false,
+        "like_id": false,
+        "is_featured": true,
+        "likeCount": 1,
+        "is_following": false
+      },
+      {
+        "is_hot": false,
+        "is_remote": false,
+        "job_city": {
+          "title": {
+            "ru": "Ереван",
+            "en": "Yerevan",
+            "am": "Երևան"
+          }
+        },
+        "id": 152857,
+        "title": {
+          "ru": "Senior C++ Software Developer",
+          "am_en": "Senior C++ Software Developer",
+          "en": "Senior C++ Software Developer",
+          "am": "Senior C++ Software Developer"
+        },
+        "deadline": "2026-03-22",
+        "companiesStruct": {
+          "domain_id": 1,
+          "profile_image": "https://cdn.staff.am/staff.am/upload/d/6/9/1/d6910123.png",
+          "title": {
+            "ru": "CQGI MA",
+            "en": "CQGI MA",
+            "am": "CQGI MA"
+          },
+          "is_unlimited": 0,
+          "is_verified": true,
+          "isEmptyProfileImage": false
+        },
+        "category": {
+          "code": "software-development",
+          "id": 1,
+          "title": {
+            "ru": "Программирование",
+            "en": "Software development",
+            "am": "Ծրագրավորում"
+          }
+        },
+        "slug": {
+          "ru": "senior-c-software-developer-12",
+          "en": "senior-c-software-developer-10",
+          "am": "senior-c-software-developer-11"
+        },
+        "status": 1,
+        "saved_job_id": false,
+        "like_id": false,
+        "is_featured": false,
+        "likeCount": 0,
+        "is_following": false
+      }
+    ],
+    "metaTags": {
+      "titles": {
+        "en": "DevExpress | Senior Frontend Developer  (EN-ENj153625)",
+        "am": "DevSoft AM | Senior Frontend Developer  (AM-ENj153625)",
+        "ru": "DevSoft AM | Senior Frontend Developer  (RU-ENj153625)"
+      },
+      "ogTitles": {
+        "en": "Senior Frontend Developer ",
+        "am": "Senior Frontend Developer ",
+        "ru": "Senior Frontend Developer "
+      },
+      "descriptions": {
+        "en": "Our team takes full ownership of DevExtreme product libraries and shapes its future – from business requirement analysis with product managers to development, document...",
+        "am": "Our team takes full ownership of DevExtreme product libraries and shapes its future – from business requirement analysis with product managers to development, document...",
+        "ru": "Our team takes full ownership of DevExtreme product libraries and shapes its future – from business requirement analysis with product managers to development, document..."
+      },
+      "ogDescriptions": {
+        "en": "Our team takes full ownership of DevExtreme product libraries and shapes its future – from business requirement analysis with product managers to development, documentation, and ongoing engineering support.\nWe prioritize code quality, extensive test coverage, and a thoughtful approach to API design throughout the development cycle (to help ensure security, quality, and product reliability). To accomplish these objectives, we employ many programming practices, including Test-Driven Development (TDD), pair programming, and code reviews.\nWe offer positive feedback to one...",
+        "am": "Our team takes full ownership of DevExtreme product libraries and shapes its future – from business requirement analysis with product managers to development, documentation, and ongoing engineering support.\nWe prioritize code quality, extensive test coverage, and a thoughtful approach to API design throughout the development cycle (to help ensure security, quality, and product reliability). To accomplish these objectives, we employ many programming practices, including Test-Driven Development (TDD), pair programming, and code reviews.\nWe offer positive feedback to one...",
+        "ru": "Our team takes full ownership of DevExtreme product libraries and shapes its future – from business requirement analysis with product managers to development, documentation, and ongoing engineering support.\nWe prioritize code quality, extensive test coverage, and a thoughtful approach to API design throughout the development cycle (to help ensure security, quality, and product reliability). To accomplish these objectives, we employ many programming practices, including Test-Driven Development (TDD), pair programming, and code reviews.\nWe offer positive feedback to one..."
+      },
+      "image": "https://cdn.staff.am/staff.am/upload/5/1/e/e/51ee9e2d.png"
+    }
+  },
+  "youWillLove": [
+    {
+      "title": {
+        "ru": "",
+        "am_en": "",
+        "en": "Senior .NET Engineer",
+        "am": ""
+      },
+      "category": {
+        "code": "software-development"
+      },
+      "slug": {
+        "ru": "",
+        "en": "senior-net-engineer-83",
+        "am": ""
+      }
+    },
+    {
+      "title": {
+        "ru": "Delphi Developer",
+        "am_en": "Delphi Developer",
+        "en": "Delphi Developer ",
+        "am": "Delphi Developer"
+      },
+      "category": {
+        "code": "software-development"
+      },
+      "slug": {
+        "ru": "delphi-developer-3",
+        "en": "delphi-developer",
+        "am": "delphi-developer-2"
+      }
+    },
+    {
+      "title": {
+        "ru": "React / Node JS Developer ",
+        "am_en": "React / Node JS Developer ",
+        "en": "React / Node JS Developer ",
+        "am": "React / Node JS Developer "
+      },
+      "category": {
+        "code": "software-development"
+      },
+      "slug": {
+        "ru": "react-node-js-developer-3",
+        "en": "react-node-js-developer",
+        "am": "react-node-js-developer-2"
+      }
+    },
+    {
+      "title": {
+        "ru": ".Net Developer",
+        "am_en": "Tsragravorman bazhni arhajatar masnaget",
+        "en": ".Net Developer",
+        "am": "Ծրագրավորման բաժնի առաջատար մասնագետ"
+      },
+      "category": {
+        "code": "software-development"
+      },
+      "slug": {
+        "ru": "net-developer-565",
+        "en": "net-developer-564",
+        "am": "tsragravorman-bazhni-arhajatar-masnaget"
+      }
+    },
+    {
+      "title": {
+        "ru": "Media and Public Relations Specialist",
+        "am_en": "Media and Public Relations Specialist",
+        "en": "Media and Public Relations Specialist",
+        "am": "Media and Public Relations Specialist"
+      },
+      "category": {
+        "code": "software-development"
+      },
+      "slug": {
+        "ru": "media-and-public-relations-specialist-3",
+        "en": "media-and-public-relations-specialist",
+        "am": "media-and-public-relations-specialist-2"
+      }
+    },
+    {
+      "title": {
+        "ru": "Statistics Creation Specialist",
+        "am_en": "Statistics Creation Specialist",
+        "en": "Statistics Creation Specialist",
+        "am": "Statistics Creation Specialist"
+      },
+      "category": {
+        "code": "software-development"
+      },
+      "slug": {
+        "ru": "statistics-creation-specialist-4",
+        "en": "statistics-creation-specialist-1",
+        "am": "statistics-creation-specialist-5"
+      }
+    },
+    {
+      "title": {
+        "ru": "Senior Backend Developer",
+        "am_en": "Senior Backend Developer",
+        "en": "Senior Backend Developer",
+        "am": "Senior Backend Developer"
+      },
+      "category": {
+        "code": "software-development"
+      },
+      "slug": {
+        "ru": "senior-backend-developer-140",
+        "en": "senior-backend-developer-138",
+        "am": "senior-backend-developer-139"
+      }
+    },
+    {
+      "title": {
+        "ru": "WordPress developer",
+        "am_en": "WordPress developer",
+        "en": "WordPress developer",
+        "am": "WordPress developer"
+      },
+      "category": {
+        "code": "software-development"
+      },
+      "slug": {
+        "ru": "wordpress-developer-371",
+        "en": "wordpress-developer-369",
+        "am": "wordpress-developer-370"
+      }
+    },
+    {
+      "title": {
+        "ru": "Senior React JS Engineer",
+        "am_en": "Senior React JS Engineer",
+        "en": "Senior React JS Engineer",
+        "am": "Senior React JS Engineer"
+      },
+      "category": {
+        "code": "software-development"
+      },
+      "slug": {
+        "ru": "senior-react-js-engineer-8",
+        "en": "senior-react-js-engineer-7",
+        "am": "senior-react-js-engineer-9"
+      }
+    },
+    {
+      "title": {
+        "ru": "Senior PHP (Pure) Developer",
+        "am_en": "Senior PHP (Pure) Developer",
+        "en": "Senior PHP (Pure) Developer",
+        "am": "Senior PHP (Pure) Developer"
+      },
+      "category": {
+        "code": "software-development"
+      },
+      "slug": {
+        "ru": "senior-php-pure-developer-8",
+        "en": "senior-php-pure-developer-7",
+        "am": "senior-php-pure-developer-9"
+      }
+    }
+  ],
+  "hideFooter": true,
+  "otherJobs": []
+}

@@ -16,7 +16,7 @@ HH_API_URL = "https://api.hh.ru/vacancies"
 HH_VACANCY_URL = "https://api.hh.ru/vacancies/{id}"
 
 # ID региона Армения в hh.ru
-ARMENIA_AREA_ID = 1365
+ARMENIA_AREA_ID = 13  # Армения в hh.ru
 
 # Количество вакансий на страницу
 PER_PAGE = 50
@@ -27,11 +27,22 @@ class HHruScraper(BaseScraper):
 
     source_name = "hh.ru"
 
+    # hh.ru требует специальный User-Agent
+    HH_HEADERS = {
+        "User-Agent": "it_armenia_vacancies_bot/1.0 (admin@it-armenia.am)",
+        "Accept": "application/json",
+        "HH-User-Agent": "it_armenia_vacancies_bot/1.0 (admin@it-armenia.am)",
+    }
+
+    async def get(self, url, **kwargs):
+        kwargs.setdefault("ssl", False)
+        return await self.session.get(url, headers=self.HH_HEADERS, **kwargs)
+
     async def fetch_vacancies(self) -> List[Vacancy]:
         vacancies: List[Vacancy] = []
 
-        # Профессиональные роли IT в hh.ru (можно расширить)
-        # Полный список: https://api.hh.ru/professional_roles
+        # Профессиональные роли IT в hh.ru
+        # aiohttp требует список кортежей для повторяющихся параметров
         IT_ROLES = [
             "96",   # Программист, разработчик
             "160",  # Аналитик
@@ -44,17 +55,16 @@ class HHruScraper(BaseScraper):
             "164",  # Сетевой инженер
             "165",  # Системный администратор
         ]
-        params = {
-            "area": ARMENIA_AREA_ID,
-            "per_page": PER_PAGE,
-            "page": 0,
-            "professional_role": IT_ROLES,
-        }
+        params = (
+            [("area", ARMENIA_AREA_ID), ("per_page", PER_PAGE), ("page", 0)]
+            + [("professional_role", r) for r in IT_ROLES]
+        )
 
         try:
             page = 0
             while True:
-                params["page"] = page
+                # Обновляем номер страницы в списке кортежей
+                params = [(k, v) for k, v in params if k != "page"] + [("page", page)]
                 async with await self.get(HH_API_URL, params=params) as resp:
                     if resp.status != 200:
                         logger.warning("hh.ru API вернул статус %d", resp.status)

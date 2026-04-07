@@ -8,7 +8,17 @@ def format_vacancy(v: Vacancy) -> str:
     """
     Возвращает готовый текст поста по шаблону ТЗ.
     Блоки с пустыми данными пропускаются.
+    Поля на русском языке не выводятся.
     """
+    # Очищаем русскоязычные поля
+    v.project_context = clean_field(v.project_context)
+    v.responsibilities = clean_list(v.responsibilities)
+    v.requirements_must = clean_list(v.requirements_must)
+    v.requirements_nice = clean_list(v.requirements_nice)
+    v.offer = clean_list(v.offer)
+    v.salary = clean_field(v.salary)
+    v.company = clean_field(v.company)
+
     lines: list[str] = []
 
     # --- Заголовок ---
@@ -78,7 +88,7 @@ def format_vacancy(v: Vacancy) -> str:
         if v.contact:
             lines.append(f"Contact: {_esc(v.contact)}")
         if v.url:
-            lines.append(f'Apply: <a href="{v.url}">открыть вакансию</a>')
+            lines.append(f'Apply: <a href="{v.url}">open vacancy</a>')
         lines.append("")
 
     # --- Источник ---
@@ -97,3 +107,22 @@ def _esc(text: str) -> str:
         .replace("<", "&lt;")
         .replace(">", "&gt;")
     )
+
+
+def is_russian_text(text: str) -> bool:
+    """Проверяет, содержит ли текст преимущественно кириллицу или армянский."""
+    if not text:
+        return False
+    non_latin = sum(1 for c in text if '\u0400' <= c <= '\u04FF' or '\u0530' <= c <= '\u058F')
+    total = sum(1 for c in text if c.isalpha())
+    return total > 0 and (non_latin / total) > 0.3
+
+
+def clean_field(text: str) -> str:
+    """Возвращает текст только если он не на русском."""
+    return "" if is_russian_text(text) else text
+
+
+def clean_list(items: list) -> list:
+    """Фильтрует русскоязычные пункты из списка."""
+    return [i for i in items if not is_russian_text(i)]

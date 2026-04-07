@@ -41,6 +41,13 @@ logger = logging.getLogger("main")
 # ─── Главная задача ─────────────────────────────────────────────────────────
 
 async def scrape_and_publish(bot: Bot) -> None:
+    # Не публикуем с 22:00 до 09:00
+    from datetime import datetime
+    hour = datetime.now().hour
+    if hour >= 22 or hour < 9:
+        logger.info("⏰ Тихий час (%d:xx) — публикация пропущена.", hour)
+        return
+
     """
     Запускает все парсеры, собирает вакансии и публикует новые.
     Эта функция вызывается по расписанию.

@@ -57,7 +57,25 @@ class BaseScraper(ABC):
 
     def is_it_vacancy(self, title: str, description: str = "") -> bool:
         """Проверяет, является ли вакансия IT-related."""
+        # Фильтр армянского языка
+        armenian_chars = sum(1 for c in title if '\u0530' <= c <= '\u058F' or '\uFB13' <= c <= '\uFB17')
+        if armenian_chars > 2:
+            return False
+
         text = f"{title} {description}".lower()
+
+        # Явно не-IT должности
+        NON_IT = {
+            "bartender", "barista", "waiter", "waitress", "chef", "cook",
+            "accountant", "bookkeeper", "lawyer", "attorney", "doctor",
+            "nurse", "driver", "cleaner", "security guard",
+            "market research", "auditor", "loan specialist", "banker",
+            "real estate", "agronomist", "electrician", "plumber",
+            "welder", "mechanic", "sales representative", "cashier",
+        }
+        if any(kw in text for kw in NON_IT):
+            return False
+
         return any(kw in text for kw in IT_KEYWORDS)
 
     def is_armenia_relevant(self, location: str, description: str = "") -> bool:

@@ -1,0 +1,3560 @@
+{
+  "headers": {
+    "apptype": "next",
+    "version": "0.001",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0",
+    "guestauth": "guest-user-19b95c84aa91246a",
+    "x-forwarded-for": "217.113.11.173"
+  },
+  "isMobile": false,
+  "NEXT_PUBLIC_API_URL": "https://api.staff.am",
+  "NEXT_PUBLIC_MAIN_PAGE_URL": "https://staff.am",
+  "NEXT_PUBLIC_IMAGES_PATH_URL": "https://cdn.staff.am/",
+  "jobs": [
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 15:48:40"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153713,
+      "title": {
+        "ru": "Աշխատանքային իրավահարաբերությունների կառավարման մասնագետ",
+        "am_en": "Ashkhatankayin iravaharaberowtyownneri karhavarman masnaget",
+        "en": "Labor Relations Specialist",
+        "am": "Աշխատանքային իրավահարաբերությունների կառավարման մասնագետ"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/b/7/e/4/b7e48387.png",
+        "id": 352,
+        "title": {
+          "ru": "ԻՆԵԿՈԲԱՆԿ ՓԲԸ",
+          "en": "Inecobank CJSC",
+          "am": "ԻՆԵԿՈԲԱՆԿ ՓԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "inecobank-cjcs",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "hr",
+        "id": 21,
+        "title": {
+          "ru": "Управление человеческими ресурсами",
+          "en": "Human Resources",
+          "am": "Մարդկային ռեսուրսների կառավարում"
+        }
+      },
+      "slug": {
+        "ru": "ashkhatankayin-iravaharaberowtyownneri-karhavarman-masnaget-5",
+        "en": "labor-relations-specialist",
+        "am": "ashkhatankayin-iravaharaberowtyownneri-karhavarman-masnaget-4"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false,
+      "last": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 15:45:48"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153716,
+      "title": {
+        "ru": "OFFICE ASSISTANT",
+        "am_en": "OFFICE ASSISTANT",
+        "en": "OFFICE ASSISTANT",
+        "am": "OFFICE ASSISTANT"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/2/6/6/8/266842fa.png",
+        "id": 751,
+        "title": {
+          "ru": "Profpanel LLC",
+          "en": "SOLARON",
+          "am": "Profpanel LLC"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "profpanel-llc",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "office-work",
+        "id": 8,
+        "title": {
+          "ru": "Административный/офисный",
+          "en": "Administrative/office-work",
+          "am": "Ադմինիստրատիվ/օֆիսային"
+        }
+      },
+      "slug": {
+        "ru": "office-assistant-38",
+        "en": "office-assistant-37",
+        "am": "office-assistant-39"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false,
+      "last": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 15:40:45"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153714,
+      "title": {
+        "ru": "Технический Специалист",
+        "am_en": "Tekhnikakan Masnaget",
+        "en": "Technical Specialist",
+        "am": "Տեխնիկական Մասնագետ"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/0/d/9/5/0d955b0f.png",
+        "id": 5176,
+        "title": {
+          "ru": "ООО Джи-Эс-Си  ",
+          "en": "GSC LLC",
+          "am": "Ջի-Էս-Սի ՍՊԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "gsc-llc",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "network",
+        "id": 28,
+        "title": {
+          "ru": "ИТ-безопасность/Сети",
+          "en": "IT security/Networks",
+          "am": "ՏՏ անվտանգություն/Ցանցեր"
+        }
+      },
+      "slug": {
+        "ru": "tehnicheskiy-specialist-17",
+        "en": "technical-specialist-30",
+        "am": "tekhnikakan-masnaget-63"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false,
+      "last": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 15:36:55"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153712,
+      "title": {
+        "ru": "Mid-Level Network Support Specialist",
+        "am_en": "Mid-Level Network Support Specialist",
+        "en": "Mid-Level Network Support Specialist",
+        "am": "Mid-Level Network Support Specialist"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/d/1/3/f/d13fdf38.jpg",
+        "id": 552,
+        "title": {
+          "ru": "\"Центр технологий управления города Еревана\" ЗАО",
+          "en": "\"Technology Management Center of Yerevan City\" CJSC",
+          "am": "\"Երևան քաղաքի կառավարման տեխնոլոգիաների կենտրոն\" ՓԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "erewan-kaghaki-karhavarman-tekhnologianeri-kentron-pbe",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "other-it",
+        "id": 6,
+        "title": {
+          "ru": "Другие ИТ",
+          "en": "Other IT",
+          "am": "Այլ ՏՏ"
+        }
+      },
+      "slug": {
+        "ru": "mid-level-network-support-specialist-12",
+        "en": "mid-level-network-support-specialist-10",
+        "am": "mid-level-network-support-specialist-11"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false,
+      "last": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 15:35:44"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153711,
+      "title": {
+        "ru": "SWIFT համակարգի սպասարկման ավագ մասնագետ",
+        "am_en": "SWIFT hamakargi spasarkman avag masnaget",
+        "en": "Senior SWIFT System Support Specialist",
+        "am": "SWIFT համակարգի սպասարկման ավագ մասնագետ"
+      },
+      "deadline": "2026-03-31",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/b/7/e/4/b7e48387.png",
+        "id": 352,
+        "title": {
+          "ru": "ԻՆԵԿՈԲԱՆԿ ՓԲԸ",
+          "en": "Inecobank CJSC",
+          "am": "ԻՆԵԿՈԲԱՆԿ ՓԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "inecobank-cjcs",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "banking",
+        "id": 14,
+        "title": {
+          "ru": "Банковское/кредитное дело",
+          "en": "Banking/credit",
+          "am": "Բանկային/Վարկային"
+        }
+      },
+      "slug": {
+        "ru": "swift-hamakargi-spasarkman-avag-masnaget-2",
+        "en": "senior-swift-system-support-specialist",
+        "am": "swift-hamakargi-spasarkman-avag-masnaget"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false,
+      "last": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 15:27:02"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153702,
+      "title": {
+        "ru": "Бухгалтер",
+        "am_en": "Hashvapah",
+        "en": "Accountant",
+        "am": "Հաշվապահ"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/d/a/4/4/da445d05.jpg",
+        "id": 11820,
+        "title": {
+          "ru": "SFA LLC",
+          "en": "SFA LLC",
+          "am": "SFA LLC"
+        },
+        "is_unlimited": 0,
+        "is_verified": false,
+        "slug": "sfa-llc",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "bookkeeping",
+        "id": 12,
+        "title": {
+          "ru": "Бухгалтерия/ Отчетность/Касса",
+          "en": "Accounting/Bookkeeping/Cash register",
+          "am": "Հաշվապահություն/Հաշվետարություն/Դրամարկղ"
+        }
+      },
+      "slug": {
+        "ru": "buhgalter-1293",
+        "en": "accountant-2839",
+        "am": "hashvapah-3320"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false,
+      "last": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 15:05:13"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153703,
+      "title": {
+        "ru": "Оператор call-центра",
+        "am_en": "Operator call-centra",
+        "en": "Оператор call-центра",
+        "am": "Оператор call-центра"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/4/4/2/1/4421143b.png",
+        "id": 146,
+        "title": {
+          "ru": "Globbing",
+          "en": "Globbing",
+          "am": "Globbing"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "globbing",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "sales-management",
+        "id": 7,
+        "title": {
+          "ru": "Организация продаж/обслуживания",
+          "en": "Sales/service management",
+          "am": "Վաճառքի/սպասարկման կազմակերպում"
+        }
+      },
+      "slug": {
+        "ru": "operator-call-centra-165",
+        "en": "operator-call-centra-164",
+        "am": "operator-call-centra-166"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false,
+      "last": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 15:04:53"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153638,
+      "title": {
+        "ru": "IT specialist",
+        "am_en": "IT specialist",
+        "en": "IT specialist",
+        "am": "IT specialist"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/4/5/c/0/45c06fd5.jpg",
+        "id": 11533,
+        "title": {
+          "ru": "ООО \"Актина Капитал\"",
+          "en": "\"Aktina Capital\" LLC",
+          "am": "«Ակտինա Կապիտալ» ՍՊԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "aktina-kapital-spe",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "system-admin",
+        "id": 41,
+        "title": {
+          "ru": "Системный администратор/Инженер",
+          "en": "System Admin/Engineer",
+          "am": "Համակարգային Ադմին/Ինժեներ"
+        }
+      },
+      "slug": {
+        "ru": "it-specialist-253",
+        "en": "it-specialist-251",
+        "am": "it-specialist-252"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false,
+      "last": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 14:44:09"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153699,
+      "title": {
+        "ru": "Կորպորատիվ քարտուղար",
+        "am_en": "Korporativ kartowghar",
+        "en": "Կորպորատիվ քարտուղար",
+        "am": "Կորպորատիվ քարտուղար"
+      },
+      "deadline": "2026-03-19",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/4/3/d/b/43dbb36d.png",
+        "id": 2496,
+        "title": {
+          "ru": "«ԿԱՄՈՒՐՋ» ՈւՎԿ ՓԲԸ",
+          "en": "«ԿԱՄՈՒՐՋ» ՈւՎԿ ՓԲԸ",
+          "am": "«ԿԱՄՈՒՐՋ» ՈւՎԿ ՓԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "kamurj-owvk-pb",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "banking",
+        "id": 14,
+        "title": {
+          "ru": "Банковское/кредитное дело",
+          "en": "Banking/credit",
+          "am": "Բանկային/Վարկային"
+        }
+      },
+      "slug": {
+        "ru": "korporativ-kartowghar-19",
+        "en": "korporativ-kartowghar-17",
+        "am": "korporativ-kartowghar-18"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false,
+      "last": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 14:33:52"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153698,
+      "title": {
+        "ru": "Customer Success &amp; Support Specialist",
+        "am_en": "Customer Success &amp; Support Specialist",
+        "en": "Customer Success &amp; Support Specialist",
+        "am": "Customer Success &amp; Support Specialist"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/9/9/e/1/99e1ed97.png",
+        "id": 1871,
+        "title": {
+          "ru": "We Construct",
+          "en": "We Construct",
+          "am": "We Construct"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "weconstruct",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "it-support",
+        "id": 51,
+        "title": {
+          "ru": "ИТ Поддержка/Техник",
+          "en": "IT Support/Technician",
+          "am": "ՏՏ աջակցություն/Տեխնիկ"
+        }
+      },
+      "slug": {
+        "ru": "customer-success-support-specialist-3",
+        "en": "customer-success-support-specialist",
+        "am": "customer-success-support-specialist-2"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false,
+      "last": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 14:21:27"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153697,
+      "title": {
+        "ru": "Intern /Junior Manual QA",
+        "am_en": "Intern /Junior Manual QA",
+        "en": "Intern /Junior Manual QA",
+        "am": "Intern /Junior Manual QA"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/9/9/e/1/99e1ed97.png",
+        "id": 1871,
+        "title": {
+          "ru": "We Construct",
+          "en": "We Construct",
+          "am": "We Construct"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "weconstruct",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "quality-assurance",
+        "id": 2,
+        "title": {
+          "ru": "Обеспечение/контроль качества ",
+          "en": "Quality Assurance /Control",
+          "am": "Որակի կառավարում"
+        }
+      },
+      "slug": {
+        "ru": "intern-junior-manual-qa-3",
+        "en": "intern-junior-manual-qa",
+        "am": "intern-junior-manual-qa-2"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 14:09:03"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Раздан",
+          "en": "Hrazdan",
+          "am": "Հրազդան"
+        }
+      },
+      "id": 153696,
+      "title": {
+        "ru": "ՓՄՁ բիզնես խորհրդատու «Հրազդան» մասնաճյուղում",
+        "am_en": "PMDz biznes khorhrdatow <<Hrazdan>> masnachyowghowm",
+        "en": "ՓՄՁ բիզնես խորհրդատու «Հրազդան» մասնաճյուղում",
+        "am": "ՓՄՁ բիզնես խորհրդատու «Հրազդան» մասնաճյուղում"
+      },
+      "deadline": "2026-03-20",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/9/c/5/2/9c5265bd.jpg",
+        "id": 19,
+        "title": {
+          "ru": "Fast Bank CJSC",
+          "en": "Fast Bank CJSC",
+          "am": "Fast Bank CJSC"
+        },
+        "is_unlimited": 1,
+        "is_verified": true,
+        "slug": "fast-bank-cjsc",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "banking",
+        "id": 14,
+        "title": {
+          "ru": "Банковское/кредитное дело",
+          "en": "Banking/credit",
+          "am": "Բանկային/Վարկային"
+        }
+      },
+      "slug": {
+        "ru": "pmdz-biznes-khorhrdatow-hrazdan-masnachyowghowm-28",
+        "en": "pmdz-biznes-khorhrdatow-hrazdan-masnachyowghowm-27",
+        "am": "pmdz-biznes-khorhrdatow-hrazdan-masnachyowghowm-29"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": true,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 13:27:36"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153695,
+      "title": {
+        "ru": "Night Duty Lead",
+        "am_en": "Night Duty Lead",
+        "en": "Night Duty Lead",
+        "am": "Night Duty Lead"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/9/7/9/6/97962beb.jpg",
+        "id": 11592,
+        "title": {
+          "ru": "Vanguard Games",
+          "en": "Vanguard Games",
+          "am": "Vanguard Games"
+        },
+        "is_unlimited": 0,
+        "is_verified": false,
+        "slug": "vanguard-games",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "gaming-betting",
+        "id": 70,
+        "title": {
+          "ru": "Гейминг/Беттинг",
+          "en": "Gaming/Betting",
+          "am": "Գեյմինգ/Բեթթինգ"
+        }
+      },
+      "slug": {
+        "ru": "night-duty-lead-3",
+        "en": "night-duty-lead",
+        "am": "night-duty-lead-2"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 13:08:07"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153694,
+      "title": {
+        "ru": "Участник Программы Учителей-Лидеров",
+        "am_en": "Owsowtsichneri arhajnordowtyan tsragri masnakits",
+        "en": "Participant in Teachers Leadership Program",
+        "am": "Ուսուցիչների առաջնորդության ծրագրի մասնակից"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/c/4/1/a/c41a9a5f.png",
+        "id": 1006,
+        "title": {
+          "ru": "Teach For Armenia",
+          "en": "Teach For Armenia",
+          "am": "Teach For Armenia"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "teach-for-armenia",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "education-training",
+        "id": 16,
+        "title": {
+          "ru": "Образование",
+          "en": "Education/training",
+          "am": "Կրթություն"
+        }
+      },
+      "slug": {
+        "ru": "uchastnik-programmy-uchiteley-liderov-7",
+        "en": "participant-in-teachers-leadership-program-5",
+        "am": "owsowtsichneri-arhajnordowtyan-tsragri-masnakits-5"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 1,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 13:02:23"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153689,
+      "title": {
+        "ru": "Ավագ հաշվապահ",
+        "am_en": "Avag hashvapah",
+        "en": "Ավագ հաշվապահ",
+        "am": "Ավագ հաշվապահ"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/1/c/b/3/1cb336f0.png",
+        "id": 8640,
+        "title": {
+          "ru": "Էլ Էլ Քընսալթինգ ՓԲԸ",
+          "en": "Էլ Էլ Քընսալթինգ ՓԲԸ",
+          "am": "Էլ Էլ Քընսալթինգ ՓԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "el-el-kensalting-pbe",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "bookkeeping",
+        "id": 12,
+        "title": {
+          "ru": "Бухгалтерия/ Отчетность/Касса",
+          "en": "Accounting/Bookkeeping/Cash register",
+          "am": "Հաշվապահություն/Հաշվետարություն/Դրամարկղ"
+        }
+      },
+      "slug": {
+        "ru": "avag-hashvapah-694",
+        "en": "avag-hashvapah-693",
+        "am": "avag-hashvapah-695"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 1,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 12:55:43"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153577,
+      "title": {
+        "ru": "ՓՄՁ Վարկային Մենեջեր/Խորհրդատու ",
+        "am_en": "PMDz Varkayin Menejer/Khorhrdatow ",
+        "en": "ՓՄՁ Վարկային Մենեջեր/Խորհրդատու ",
+        "am": "ՓՄՁ Վարկային Մենեջեր/Խորհրդատու "
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/b/a/9/2/ba92770f.jpg",
+        "id": 11817,
+        "title": {
+          "ru": " ՈՒՎԿ ՓԲԸ",
+          "en": " ՈՒՎԿ ՓԲԸ",
+          "am": " ԿՈՒԲ ԿՐԵԴԻՏ ՈՒՎԿ ՓԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": false,
+        "slug": "kowb-kredit-owvk-pbe",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "banking",
+        "id": 14,
+        "title": {
+          "ru": "Банковское/кредитное дело",
+          "en": "Banking/credit",
+          "am": "Բանկային/Վարկային"
+        }
+      },
+      "slug": {
+        "ru": "pmdz-varkayin-menejerkhorhrdatow-3",
+        "en": "pmdz-varkayin-menejerkhorhrdatow",
+        "am": "pmdz-varkayin-menejerkhorhrdatow-2"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 12:43:48"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153693,
+      "title": {
+        "ru": "",
+        "am_en": "Mijin dprotsi ew hamaynki gtsov tnoreni ognakan",
+        "en": "",
+        "am": "Միջին դպրոցի և համայնքի գծով տնօրենի օգնական"
+      },
+      "deadline": "2026-03-25",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/1/4/1/6/141698e6.jpg",
+        "id": 1066,
+        "title": {
+          "ru": "Школа \"Айб\"",
+          "en": "Ayb School",
+          "am": "«Այբ» դպրոց"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "-32",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "education-training",
+        "id": 16,
+        "title": {
+          "ru": "Образование",
+          "en": "Education/training",
+          "am": "Կրթություն"
+        }
+      },
+      "slug": {
+        "ru": "",
+        "en": "",
+        "am": "mijin-dprotsi-ew-hamaynki-gtsov-tnoreni-ognakan-2"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 12:39:25"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153692,
+      "title": {
+        "ru": "Incoming Tour Manager ",
+        "am_en": "Nergna towrizmi menejer ",
+        "en": "Incoming Tour Manager ",
+        "am": "Ներգնա տուրիզմի մենեջեր "
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/8/6/d/f/86df32ea.jpg",
+        "id": 11807,
+        "title": {
+          "ru": "BILET LLC",
+          "en": "BILET LLC",
+          "am": "BILET LLC"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "bilet-llc",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "tourism",
+        "id": 9,
+        "title": {
+          "ru": "Туризм/ Гостиничный бизнес",
+          "en": "Tourism/Hospitality/HoReCa",
+          "am": "Տուրիզմ/Հյուրընկալություն/HoReCa"
+        }
+      },
+      "slug": {
+        "ru": "incoming-tour-manager-139",
+        "en": "incoming-tour-manager-138",
+        "am": "nergna-towrizmi-menejer-11"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 1,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 12:29:53"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153691,
+      "title": {
+        "ru": "Делопроизводитель / ассистент ",
+        "am_en": "Administrativ asistent / gortsavar",
+        "en": "Administrative assistant",
+        "am": "Ադմինիստրատիվ ասիստենտ / գործավար"
+      },
+      "deadline": "2026-04-02",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/0/6/0/c/060c30ed.jpg",
+        "id": 6829,
+        "title": {
+          "ru": "Magellan Armenia ",
+          "en": "Magellan Armenia ",
+          "am": "Magellan Armenia "
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "magellan-armenia",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "procurement",
+        "id": 23,
+        "title": {
+          "ru": "Закупки/Логистика/Курьер",
+          "en": "Procurement/Logistics/Courier",
+          "am": "Գնումներ/Լոգիստիկա/Սուրհանդակային"
+        }
+      },
+      "slug": {
+        "ru": "deloproizvoditel-assistent",
+        "en": "administrative-assistant-1013",
+        "am": "administrativ-asistent-gortsavar-4"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 12:10:20"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153690,
+      "title": {
+        "ru": "Junior Payroll Specialist",
+        "am_en": "Junior Payroll Specialist",
+        "en": "Junior Payroll Specialist",
+        "am": "Junior Payroll Specialist"
+      },
+      "deadline": "2026-03-27",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/a/3/f/2/a3f2c966.png",
+        "id": 90,
+        "title": {
+          "ru": "Digitain ",
+          "en": "Digitain ",
+          "am": "Digitain "
+        },
+        "is_unlimited": 1,
+        "is_verified": true,
+        "slug": "digitain",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "finance-management",
+        "id": 13,
+        "title": {
+          "ru": "Финансовый менеджмент",
+          "en": "Finance Management",
+          "am": "Ֆինանսների կառավարում"
+        }
+      },
+      "slug": {
+        "ru": "junior-payroll-specialist-29",
+        "en": "junior-payroll-specialist-28",
+        "am": "junior-payroll-specialist-30"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": true,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "itemType": 0,
+      "image": "https://cdn.staff.am/staff.am/upload/0/c/3/c/0c3caca4.png",
+      "image_dark": "https://cdn.staff.am/staff.am/upload/dark_mode/2/3/0/4/23047f86.png",
+      "web_image": "https://cdn.staff.am/staff.am/upload/5/7/6/e/576e01f1.png",
+      "web_image_mobile": "https://cdn.staff.am/staff.am/upload/0/c/3/c/0c3caca4.png",
+      "web_image_dark": "https://cdn.staff.am/staff.am/upload/dark_mode/0/4/1/0/0410ffc9.png",
+      "web_image_mobile_dark": "https://cdn.staff.am/staff.am/upload/dark_mode/2/3/0/4/23047f86.png",
+      "link": "https://staff.am/en/banner/1198"
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 11:56:31"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153688,
+      "title": {
+        "ru": "Night Shift Building Maintenance Specialist",
+        "am_en": "Gisherayin hertapokhi shenkeri spasarkman masnaget",
+        "en": "Night Shift Building Maintenance Specialist",
+        "am": "Գիշերային հերթափոխի շենքերի սպասարկման մասնագետ"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/a/3/f/2/a3f2c966.png",
+        "id": 90,
+        "title": {
+          "ru": "Digitain ",
+          "en": "Digitain ",
+          "am": "Digitain "
+        },
+        "is_unlimited": 1,
+        "is_verified": true,
+        "slug": "digitain",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "mechanical-engineering",
+        "id": 40,
+        "title": {
+          "ru": "Механический/Машинный/Инжиниринг",
+          "en": "Mechanical/Engineering",
+          "am": "Մեխանիկական/ Ինժեներական"
+        }
+      },
+      "slug": {
+        "ru": "night-shift-building-maintenance-specialist-7",
+        "en": "night-shift-building-maintenance-specialist-6",
+        "am": "gisherayin-hertapokhi-shenkeri-spasarkman-masnaget"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": true,
+      "likeCount": 1,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 11:47:16"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153687,
+      "title": {
+        "ru": "Ոսկերիչ /Ստեփանավանի և Երևանի մասնաճյուղեր/",
+        "am_en": "Oskerich /Stepanavani ew Erewani masnachyowgher/",
+        "en": "Ոսկերիչ /Ստեփանավանի և Երևանի մասնաճյուղեր/",
+        "am": "Ոսկերիչ /Ստեփանավանի և Երևանի մասնաճյուղեր/"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/0/9/d/c/09dcf42f.png",
+        "id": 1376,
+        "title": {
+          "ru": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "en": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "am": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "yownibank-bbe",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "banking",
+        "id": 14,
+        "title": {
+          "ru": "Банковское/кредитное дело",
+          "en": "Banking/credit",
+          "am": "Բանկային/Վարկային"
+        }
+      },
+      "slug": {
+        "ru": "oskerich-stepanavani-ew-erewani-masnachyowgher-3",
+        "en": "oskerich-stepanavani-ew-erewani-masnachyowgher",
+        "am": "oskerich-stepanavani-ew-erewani-masnachyowgher-2"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 11:44:33"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153686,
+      "title": {
+        "ru": "Սպառողական վարկավորման գծով գործակալ  /ք.Երևան, ք.Դիլիջան, ք.Ապարան, ք.Հրազդան/",
+        "am_en": "Sparhoghakan varkavorman gtsov gortsakal /k.Erewan, k.Dilijan, k.Aparan, k.Hrazdan/",
+        "en": "Սպառողական վարկավորման գծով գործակալ  /ք.Երևան, ք.Դիլիջան, ք.Ապարան, ք.Հրազդան/",
+        "am": "Սպառողական վարկավորման գծով գործակալ /ք.Երևան, ք.Դիլիջան, ք.Ապարան, ք.Հրազդան/"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/0/9/d/c/09dcf42f.png",
+        "id": 1376,
+        "title": {
+          "ru": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "en": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "am": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "yownibank-bbe",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "banking",
+        "id": 14,
+        "title": {
+          "ru": "Банковское/кредитное дело",
+          "en": "Banking/credit",
+          "am": "Բանկային/Վարկային"
+        }
+      },
+      "slug": {
+        "ru": "sparhoghakan-varkavorman-gtsov-gortsakal-kerewan-kdilijan-kaparan-khrazdan-3",
+        "en": "sparhoghakan-varkavorman-gtsov-gortsakal-kerewan-kdilijan-kaparan-khrazdan",
+        "am": "sparhoghakan-varkavorman-gtsov-gortsakal-kerewan-kdilijan-kaparan-khrazdan-2"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 11:39:36"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153685,
+      "title": {
+        "ru": " Վարկային մասնագետ (Երևանի  բիզնես մասնաճյուղեր)",
+        "am_en": " Varkayin masnaget (Erewani  biznes masnachyowgher)",
+        "en": " Վարկային մասնագետ (Երևանի  բիզնես մասնաճյուղեր)",
+        "am": " Վարկային մասնագետ (Երևանի  բիզնես մասնաճյուղեր)"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/0/9/d/c/09dcf42f.png",
+        "id": 1376,
+        "title": {
+          "ru": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "en": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "am": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "yownibank-bbe",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "banking",
+        "id": 14,
+        "title": {
+          "ru": "Банковское/кредитное дело",
+          "en": "Banking/credit",
+          "am": "Բանկային/Վարկային"
+        }
+      },
+      "slug": {
+        "ru": "varkayin-masnaget-erewani-biznes-masnachyowgher-3",
+        "en": "varkayin-masnaget-erewani-biznes-masnachyowgher",
+        "am": "varkayin-masnaget-erewani-biznes-masnachyowgher-2"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 11:37:37"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153683,
+      "title": {
+        "ru": "Ինտերնետ էքվայրինգի վաճառքների մենեջեր",
+        "am_en": "Internet ekvayringi vacharhkneri menejer",
+        "en": "Ինտերնետ էքվայրինգի վաճառքների մենեջեր",
+        "am": "Ինտերնետ էքվայրինգի վաճառքների մենեջեր"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/0/9/d/c/09dcf42f.png",
+        "id": 1376,
+        "title": {
+          "ru": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "en": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "am": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "yownibank-bbe",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "banking",
+        "id": 14,
+        "title": {
+          "ru": "Банковское/кредитное дело",
+          "en": "Banking/credit",
+          "am": "Բանկային/Վարկային"
+        }
+      },
+      "slug": {
+        "ru": "internet-ekvayringi-vacharhkneri-menejer-8",
+        "en": "internet-ekvayringi-vacharhkneri-menejer-7",
+        "am": "internet-ekvayringi-vacharhkneri-menejer-9"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 11:36:42"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153682,
+      "title": {
+        "ru": "Բիզնես խմբի ղեկավար ",
+        "am_en": "Biznes khmbi ghekavar ",
+        "en": "Բիզնես խմբի ղեկավար ",
+        "am": "Բիզնես խմբի ղեկավար "
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/0/9/d/c/09dcf42f.png",
+        "id": 1376,
+        "title": {
+          "ru": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "en": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "am": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "yownibank-bbe",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "banking",
+        "id": 14,
+        "title": {
+          "ru": "Банковское/кредитное дело",
+          "en": "Banking/credit",
+          "am": "Բանկային/Վարկային"
+        }
+      },
+      "slug": {
+        "ru": "biznes-khmbi-ghekavar-44",
+        "en": "biznes-khmbi-ghekavar-43",
+        "am": "biznes-khmbi-ghekavar-45"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 11:35:35"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153681,
+      "title": {
+        "ru": "Աշխատավարձային նախագծերի ներգրավման պատասխանատու",
+        "am_en": "Ashkhatavardzayin nakhagtseri nergravman pataskhanatow",
+        "en": "Աշխատավարձային նախագծերի ներգրավման պատասխանատու",
+        "am": "Աշխատավարձային նախագծերի ներգրավման պատասխանատու"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/0/9/d/c/09dcf42f.png",
+        "id": 1376,
+        "title": {
+          "ru": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "en": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "am": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "yownibank-bbe",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "banking",
+        "id": 14,
+        "title": {
+          "ru": "Банковское/кредитное дело",
+          "en": "Banking/credit",
+          "am": "Բանկային/Վարկային"
+        }
+      },
+      "slug": {
+        "ru": "ashkhatavardzayin-nakhagtseri-nergravman-pataskhanatow-8",
+        "en": "ashkhatavardzayin-nakhagtseri-nergravman-pataskhanatow-7",
+        "am": "ashkhatavardzayin-nakhagtseri-nergravman-pataskhanatow-9"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 11:34:18"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153680,
+      "title": {
+        "ru": "Վարկավորման գործընթացի հսկողության բաժնի մասնագետ",
+        "am_en": "Varkavorman gortsentatsi hskoghowtyan bazhni masnaget",
+        "en": "Վարկավորման գործընթացի հսկողության բաժնի մասնագետ",
+        "am": "Վարկավորման գործընթացի հսկողության բաժնի մասնագետ"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/0/9/d/c/09dcf42f.png",
+        "id": 1376,
+        "title": {
+          "ru": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "en": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "am": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "yownibank-bbe",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "banking",
+        "id": 14,
+        "title": {
+          "ru": "Банковское/кредитное дело",
+          "en": "Banking/credit",
+          "am": "Բանկային/Վարկային"
+        }
+      },
+      "slug": {
+        "ru": "varkavorman-gortsentatsi-hskoghowtyan-bazhni-masnaget-8",
+        "en": "varkavorman-gortsentatsi-hskoghowtyan-bazhni-masnaget-7",
+        "am": "varkavorman-gortsentatsi-hskoghowtyan-bazhni-masnaget-9"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 11:33:35"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153679,
+      "title": {
+        "ru": "Բիզնես վարկավորման վերլուծության և աջակցության վարչության մասնագետ",
+        "am_en": "Biznes varkavorman verlowtsowtyan ew ajaktsowtyan varchowtyan masnaget",
+        "en": "Բիզնես վարկավորման վերլուծության և աջակցության վարչության մասնագետ",
+        "am": "Բիզնես վարկավորման վերլուծության և աջակցության վարչության մասնագետ"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/0/9/d/c/09dcf42f.png",
+        "id": 1376,
+        "title": {
+          "ru": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "en": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "am": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "yownibank-bbe",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "banking",
+        "id": 14,
+        "title": {
+          "ru": "Банковское/кредитное дело",
+          "en": "Banking/credit",
+          "am": "Բանկային/Վարկային"
+        }
+      },
+      "slug": {
+        "ru": "biznes-varkavorman-verlowtsowtyan-ew-ajaktsowtyan-varchowtyan-masnaget-8",
+        "en": "biznes-varkavorman-verlowtsowtyan-ew-ajaktsowtyan-varchowtyan-masnaget-7",
+        "am": "biznes-varkavorman-verlowtsowtyan-ew-ajaktsowtyan-varchowtyan-masnaget-9"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 1,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 11:32:39"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153678,
+      "title": {
+        "ru": "Մասնաճյուղի կառավարիչ /Երևանի և Կապանի մասնաճյուղեր/",
+        "am_en": "Masnachyowghi karhavarich /Erewani ew Kapani masnachyowgher/",
+        "en": "Մասնաճյուղի կառավարիչ /Երևանի և Կապանի մասնաճյուղեր/",
+        "am": "Մասնաճյուղի կառավարիչ /Երևանի և Կապանի մասնաճյուղեր/"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/0/9/d/c/09dcf42f.png",
+        "id": 1376,
+        "title": {
+          "ru": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "en": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ",
+          "am": "ՅՈՒՆԻԲԱՆԿ ԲԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "yownibank-bbe",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "banking",
+        "id": 14,
+        "title": {
+          "ru": "Банковское/кредитное дело",
+          "en": "Banking/credit",
+          "am": "Բանկային/Վարկային"
+        }
+      },
+      "slug": {
+        "ru": "masnachyowghi-karhavarich-erewani-ew-kapani-masnachyowgher-8",
+        "en": "masnachyowghi-karhavarich-erewani-ew-kapani-masnachyowgher-7",
+        "am": "masnachyowghi-karhavarich-erewani-ew-kapani-masnachyowgher-9"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 11:23:27"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153677,
+      "title": {
+        "ru": "Бухгалтер",
+        "am_en": "Hashvapah ",
+        "en": "Accountant ",
+        "am": "Հաշվապահ "
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/b/b/a/8/bba80198.png",
+        "id": 396,
+        "title": {
+          "ru": "FINLEX LLC",
+          "en": "FINLEX Financial and Legal Consulting",
+          "am": "FINLEX LLC"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "finlex-llc",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "bookkeeping",
+        "id": 12,
+        "title": {
+          "ru": "Бухгалтерия/ Отчетность/Касса",
+          "en": "Accounting/Bookkeeping/Cash register",
+          "am": "Հաշվապահություն/Հաշվետարություն/Դրամարկղ"
+        }
+      },
+      "slug": {
+        "ru": "buhgalter-1292",
+        "en": "accountant-2838",
+        "am": "hashvapah-3316"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 11:07:58"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153676,
+      "title": {
+        "ru": "",
+        "am_en": "",
+        "en": "Քարտային գործարքների բողոքարկման և քարտային հաշիվների  վերահսկման բաժնի  գլխավոր մասնագետ",
+        "am": ""
+      },
+      "deadline": "2026-03-12",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/f/d/c/2/fdc2b92d.png",
+        "id": 420,
+        "title": {
+          "ru": "Ардшинбанк ОАО",
+          "en": "Ardshinbank OJSC ",
+          "am": "Արդշինբանկ ԲԲԸ"
+        },
+        "is_unlimited": 1,
+        "is_verified": true,
+        "slug": "ardshinbank",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "banking",
+        "id": 14,
+        "title": {
+          "ru": "Банковское/кредитное дело",
+          "en": "Banking/credit",
+          "am": "Բանկային/Վարկային"
+        }
+      },
+      "slug": {
+        "ru": "",
+        "en": "kartayin-gortsarkneri-boghokarkman-ew-kartayin-hashivneri-verahskman-bazhni-glkhavor-masnaget-5",
+        "am": ""
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": true,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 11:01:02"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153675,
+      "title": {
+        "ru": "Delphi Developer",
+        "am_en": "Delphi Developer",
+        "en": "Delphi Developer ",
+        "am": "Delphi Developer"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/5/1/e/e/51ee9e2d.png",
+        "id": 6740,
+        "title": {
+          "ru": "DevSoft AM",
+          "en": "DevExpress",
+          "am": "DevSoft AM"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "devsoft-am",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "software-development",
+        "id": 1,
+        "title": {
+          "ru": "Программирование",
+          "en": "Software development",
+          "am": "Ծրագրավորում"
+        }
+      },
+      "slug": {
+        "ru": "delphi-developer-3",
+        "en": "delphi-developer",
+        "am": "delphi-developer-2"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 10:45:19"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Аштарак",
+          "en": "Ashtarak",
+          "am": "Աշտարակ"
+        }
+      },
+      "id": 153674,
+      "title": {
+        "ru": "",
+        "am_en": "<<AShTARAK>> masnachyowghowm   varkayin masnaget",
+        "en": "Credit specialist at ASHTARAK branch",
+        "am": "«ԱՇՏԱՐԱԿ» մասնաճյուղում   վարկային մասնագետ"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/d/d/2/8/dd28c224.png",
+        "id": 4703,
+        "title": {
+          "ru": "АРМЭКОНОМБАНК ОАО",
+          "en": "ARMECONOMBANK OJSC",
+          "am": "ՀԱՅԷԿՈՆՈՄԲԱՆԿ ԲԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "hayekonombanki",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "banking",
+        "id": 14,
+        "title": {
+          "ru": "Банковское/кредитное дело",
+          "en": "Banking/credit",
+          "am": "Բանկային/Վարկային"
+        }
+      },
+      "slug": {
+        "ru": "",
+        "en": "credit-specialist-at-ashtarak-branch-2",
+        "am": "ashtarak-masnachyowghowm-varkayin-masnaget"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 10:40:32"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153673,
+      "title": {
+        "ru": "",
+        "am_en": "Masnachyowghowm karhavarich",
+        "en": "Manager at  branches",
+        "am": "Մասնաճյուղում կառավարիչ"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/d/d/2/8/dd28c224.png",
+        "id": 4703,
+        "title": {
+          "ru": "АРМЭКОНОМБАНК ОАО",
+          "en": "ARMECONOMBANK OJSC",
+          "am": "ՀԱՅԷԿՈՆՈՄԲԱՆԿ ԲԲԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "hayekonombanki",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "banking",
+        "id": 14,
+        "title": {
+          "ru": "Банковское/кредитное дело",
+          "en": "Banking/credit",
+          "am": "Բանկային/Վարկային"
+        }
+      },
+      "slug": {
+        "ru": "",
+        "en": "manager-at-branches",
+        "am": "masnachyowghowm-karhavarich"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 10:32:05"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153672,
+      "title": {
+        "ru": "Ստուդիայի սարքավորումների աջակցման մասնագետ",
+        "am_en": "Stowdiayi sarkavorowmneri ajaktsman masnaget",
+        "en": "Ստուդիայի սարքավորումների աջակցման մասնագետ",
+        "am": "Ստուդիայի սարքավորումների աջակցման մասնագետ"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/9/4/f/5/94f5b7ef.png",
+        "id": 2269,
+        "title": {
+          "ru": "Evolution",
+          "en": "Evolution",
+          "am": "Evolution"
+        },
+        "is_unlimited": 1,
+        "is_verified": true,
+        "slug": "evolution-gaming",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "technical-support",
+        "id": 64,
+        "title": {
+          "ru": "Техническая поддержка",
+          "en": "Technical Support",
+          "am": "Տեխնիկական աջակցություն"
+        }
+      },
+      "slug": {
+        "ru": "stowdiayi-sarkavorowmneri-ajaktsman-masnaget-15",
+        "en": "stowdiayi-sarkavorowmneri-ajaktsman-masnaget-13",
+        "am": "stowdiayi-sarkavorowmneri-ajaktsman-masnaget-14"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": true,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 10:27:37"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153671,
+      "title": {
+        "ru": "Ստուդիայի աջակցման մասով տեխնիկ",
+        "am_en": "Stowdiayi ajaktsman masov tekhnik",
+        "en": "Ստուդիայի աջակցման մասով տեխնիկ",
+        "am": "Ստուդիայի աջակցման մասով տեխնիկ"
+      },
+      "deadline": "2026-04-03",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/9/4/f/5/94f5b7ef.png",
+        "id": 2269,
+        "title": {
+          "ru": "Evolution",
+          "en": "Evolution",
+          "am": "Evolution"
+        },
+        "is_unlimited": 1,
+        "is_verified": true,
+        "slug": "evolution-gaming",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "technical-support",
+        "id": 64,
+        "title": {
+          "ru": "Техническая поддержка",
+          "en": "Technical Support",
+          "am": "Տեխնիկական աջակցություն"
+        }
+      },
+      "slug": {
+        "ru": "stowdiayi-ajaktsman-masov-tekhnik-5",
+        "en": "stowdiayi-ajaktsman-masov-tekhnik-4",
+        "am": "stowdiayi-ajaktsman-masov-tekhnik-6"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": true,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 10:22:22"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153670,
+      "title": {
+        "ru": "Game Presenter (Arabic)",
+        "am_en": "Game Presenter (Arabic)",
+        "en": "Game Presenter (Arabic)",
+        "am": "Game Presenter (Arabic)"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/1/9/8/7/1987e86e.png",
+        "id": 5992,
+        "title": {
+          "ru": "Creedroomz",
+          "en": "CreedRoomz",
+          "am": "Creedroomz"
+        },
+        "is_unlimited": 1,
+        "is_verified": true,
+        "slug": "creedroomz",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "gaming-betting",
+        "id": 70,
+        "title": {
+          "ru": "Гейминг/Беттинг",
+          "en": "Gaming/Betting",
+          "am": "Գեյմինգ/Բեթթինգ"
+        }
+      },
+      "slug": {
+        "ru": "game-presenter-arabic-4",
+        "en": "game-presenter-arabic-6",
+        "am": "game-presenter-arabic-5"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": true,
+      "likeCount": 1,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 10:21:58"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153669,
+      "title": {
+        "ru": "Game Presenter (Korean language)",
+        "am_en": "Game Presenter (Korean language)",
+        "en": "Game Presenter (Korean language)",
+        "am": "Game Presenter (Korean language)"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/1/9/8/7/1987e86e.png",
+        "id": 5992,
+        "title": {
+          "ru": "Creedroomz",
+          "en": "CreedRoomz",
+          "am": "Creedroomz"
+        },
+        "is_unlimited": 1,
+        "is_verified": true,
+        "slug": "creedroomz",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "gaming-betting",
+        "id": 70,
+        "title": {
+          "ru": "Гейминг/Беттинг",
+          "en": "Gaming/Betting",
+          "am": "Գեյմինգ/Բեթթինգ"
+        }
+      },
+      "slug": {
+        "ru": "game-presenter-korean-language-14",
+        "en": "game-presenter-korean-language-13",
+        "am": "game-presenter-korean-language-15"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": true,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 09:56:24"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153668,
+      "title": {
+        "ru": "HR Manager",
+        "am_en": "HR Manager",
+        "en": "HR Manager",
+        "am": "HR Manager"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/0/b/3/7/0b376e69.jpg",
+        "id": 11714,
+        "title": {
+          "ru": "ՎԻԿՏՈՐԻԱ ՔՈՆՍԱԼԹԻՆԳ",
+          "en": "ՎԻԿՏՈՐԻԱ ՔՈՆՍԱԼԹԻՆԳ",
+          "am": "ՎԻԿՏՈՐԻԱ ՔՈՆՍԱԼԹԻՆԳ"
+        },
+        "is_unlimited": 0,
+        "is_verified": false,
+        "slug": "viktoria-konsalting-2",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "hr",
+        "id": 21,
+        "title": {
+          "ru": "Управление человеческими ресурсами",
+          "en": "Human Resources",
+          "am": "Մարդկային ռեսուրսների կառավարում"
+        }
+      },
+      "slug": {
+        "ru": "hr-manager-446",
+        "en": "hr-manager-445",
+        "am": "hr-manager-447"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 09:49:27"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153267,
+      "title": {
+        "ru": "Младший бухгалтер",
+        "am_en": "Krtser hashvapah",
+        "en": "Junior accountant",
+        "am": "Կրտսեր հաշվապահ"
+      },
+      "deadline": "2026-03-28",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/3/b/2/3/3b23a703.jpg",
+        "id": 10625,
+        "title": {
+          "ru": "Smart Accounting in Armenia",
+          "en": "Smart Accounting in Armenia",
+          "am": "Smart Accounting in Armenia"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "smart-accounting-in-armenia",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "bookkeeping",
+        "id": 12,
+        "title": {
+          "ru": "Бухгалтерия/ Отчетность/Касса",
+          "en": "Accounting/Bookkeeping/Cash register",
+          "am": "Հաշվապահություն/Հաշվետարություն/Դրամարկղ"
+        }
+      },
+      "slug": {
+        "ru": "mladshiy-buhgalter-54",
+        "en": "junior-accountant-248",
+        "am": "krtser-hashvapah-123"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 09:30:30"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Абовян",
+          "en": "Abovyan",
+          "am": "Աբովյան"
+        }
+      },
+      "id": 153667,
+      "title": {
+        "ru": "Տնտեսվար բանվոր-օգնական",
+        "am_en": "Tntesvar banvor-ognakan",
+        "en": "Տնտեսվար բանվոր-օգնական",
+        "am": "Տնտեսվար բանվոր-օգնական"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": null,
+        "id": 11445,
+        "title": {
+          "ru": "Նոր Անկյուն ՍՊԸ",
+          "en": "Նոր Անկյուն ՍՊԸ",
+          "am": "Նոր Անկյուն ՍՊԸ"
+        },
+        "is_unlimited": 0,
+        "is_verified": false,
+        "slug": "nor-ankyown-spe",
+        "isEmptyProfileImage": true
+      },
+      "category": {
+        "code": "other-services",
+        "id": 27,
+        "title": {
+          "ru": "Общие/Профессиональные/Другие услуги",
+          "en": "General/professional/Other services",
+          "am": "Ընդհանուր/մասնագիտական/այլ ծառայություններ"
+        }
+      },
+      "slug": {
+        "ru": "tntesvar-banvor-ognakan-3",
+        "en": "tntesvar-banvor-ognakan",
+        "am": "tntesvar-banvor-ognakan-2"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-05 02:08:06"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": true,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153666,
+      "title": {
+        "ru": "Customer Service Specialist (US Market)",
+        "am_en": "Customer Service Specialist (US Market)",
+        "en": "Customer Service Specialist (US Market)",
+        "am": "Customer Service Specialist (US Market)"
+      },
+      "deadline": "2026-04-04",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": null,
+        "id": 11819,
+        "title": {
+          "ru": "US interstate moving company",
+          "en": "US interstate moving company",
+          "am": "US interstate moving company"
+        },
+        "is_unlimited": 0,
+        "is_verified": false,
+        "slug": "us-interstate-moving-company",
+        "isEmptyProfileImage": true
+      },
+      "category": {
+        "code": "sales-management",
+        "id": 7,
+        "title": {
+          "ru": "Организация продаж/обслуживания",
+          "en": "Sales/service management",
+          "am": "Վաճառքի/սպասարկման կազմակերպում"
+        }
+      },
+      "slug": {
+        "ru": "customer-service-specialist-us-market-3",
+        "en": "customer-service-specialist-us-market",
+        "am": "customer-service-specialist-us-market-2"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-04 22:57:26"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Вайк",
+          "en": "Vayk",
+          "am": "Վայք‎"
+        }
+      },
+      "id": 153665,
+      "title": {
+        "ru": "Financial Planning &amp; Analysis Coordinator",
+        "am_en": "Finansakan planavorman ew verlowtsowtyan hamakargoghe",
+        "en": "Financial Planning &amp; Analysis Coordinator",
+        "am": "Ֆինանսական պլանավորման և վերլուծության համակարգողը"
+      },
+      "deadline": "2026-04-03",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/3/5/9/4/3594e4ef.png",
+        "id": 342,
+        "title": {
+          "ru": "Lydian Armenia CJSC",
+          "en": "Lydian Armenia CJSC",
+          "am": "Lydian Armenia CJSC"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "lydian-armenia-cjsc",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "finance-management",
+        "id": 13,
+        "title": {
+          "ru": "Финансовый менеджмент",
+          "en": "Finance Management",
+          "am": "Ֆինանսների կառավարում"
+        }
+      },
+      "slug": {
+        "ru": "financial-planning-analysis-coordinator-2",
+        "en": "financial-planning-amp-analysis-coordinator",
+        "am": "finansakan-planavorman-ew-verlowtsowtyan-hamakargoghe"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 1,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-04 22:26:26"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153664,
+      "title": {
+        "ru": "Диспетчер грузоперевозок",
+        "am_en": "Berhnapokhadrman dispetcher",
+        "en": "Freight/Load Dispatcher",
+        "am": "Բեռնափոխադրման դիսպետչեր"
+      },
+      "deadline": "2026-03-31",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/7/5/d/d/75dd1a63.jpg",
+        "id": 11618,
+        "title": {
+          "ru": "Smart Wolves IT",
+          "en": "Smart Wolves IT",
+          "am": "Smart Wolves IT"
+        },
+        "is_unlimited": 0,
+        "is_verified": false,
+        "slug": "just-tracking-llc",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "sales-management",
+        "id": 7,
+        "title": {
+          "ru": "Организация продаж/обслуживания",
+          "en": "Sales/service management",
+          "am": "Վաճառքի/սպասարկման կազմակերպում"
+        }
+      },
+      "slug": {
+        "ru": "dispetcher-gruzoperevozok-6",
+        "en": "freightload-dispatcher-3",
+        "am": "berhnapokhadrman-dispetcher-3"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 1,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-04 22:02:30"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153661,
+      "title": {
+        "ru": "Senior accountant",
+        "am_en": "Avag hashvapah",
+        "en": "Senior accountant",
+        "am": "Ավագ հաշվապահ"
+      },
+      "deadline": "2026-04-03",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/2/9/9/3/2993dc54.png",
+        "id": 9895,
+        "title": {
+          "ru": "Business Key LLC",
+          "en": "Business Key LLC",
+          "am": "Business Key LLC"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "business-key",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "bookkeeping",
+        "id": 12,
+        "title": {
+          "ru": "Бухгалтерия/ Отчетность/Касса",
+          "en": "Accounting/Bookkeeping/Cash register",
+          "am": "Հաշվապահություն/Հաշվետարություն/Դրամարկղ"
+        }
+      },
+      "slug": {
+        "ru": "senior-accountant-512",
+        "en": "senior-accountant-511",
+        "am": "avag-hashvapah-692"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-04 21:54:30"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153657,
+      "title": {
+        "ru": "Administration Assistant",
+        "am_en": "Administration Assistant",
+        "en": "Administration Assistant",
+        "am": "Administration Assistant"
+      },
+      "deadline": "2026-04-03",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/0/4/0/a/040ae13e.jpg",
+        "id": 10573,
+        "title": {
+          "ru": "Property Vision ",
+          "en": "Property Vision ",
+          "am": "Property Vision "
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "property-vision",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "office-work",
+        "id": 8,
+        "title": {
+          "ru": "Административный/офисный",
+          "en": "Administrative/office-work",
+          "am": "Ադմինիստրատիվ/օֆիսային"
+        }
+      },
+      "slug": {
+        "ru": "administration-assistant-9",
+        "en": "administration-assistant-8",
+        "am": "administration-assistant-10"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-04 21:49:21"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Вайк",
+          "en": "Vayk",
+          "am": "Վայք‎"
+        }
+      },
+      "id": 153662,
+      "title": {
+        "ru": "Chief Geologist",
+        "am_en": "Glkhavor erkraban",
+        "en": "Chief Geologist",
+        "am": "Գլխավոր երկրաբան"
+      },
+      "deadline": "2026-04-03",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/3/5/9/4/3594e4ef.png",
+        "id": 342,
+        "title": {
+          "ru": "Lydian Armenia CJSC",
+          "en": "Lydian Armenia CJSC",
+          "am": "Lydian Armenia CJSC"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "lydian-armenia-cjsc",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "mining",
+        "id": 69,
+        "title": {
+          "ru": "Горнодобывающая промышленность",
+          "en": "Mining",
+          "am": "Լեռնահանքային արդյունաբերություն"
+        }
+      },
+      "slug": {
+        "ru": "chief-geologist-2",
+        "en": "chief-geologist",
+        "am": "glkhavor-erkraban"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 0,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-04 20:30:38"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153660,
+      "title": {
+        "ru": "Junior Project Manager",
+        "am_en": "Junior Project Manager",
+        "en": "Junior Project Manager",
+        "am": "Junior Project Manager"
+      },
+      "deadline": "2026-04-03",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/5/b/f/2/5bf279de.png",
+        "id": 1646,
+        "title": {
+          "ru": "Rocket Systems",
+          "en": "Rocket Systems",
+          "am": "Rocket Systems"
+        },
+        "is_unlimited": 0,
+        "is_verified": true,
+        "slug": "rocket-systems",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "project-management",
+        "id": 4,
+        "title": {
+          "ru": "Управление продуктами/проектами",
+          "en": "Product/Project Management",
+          "am": "Պրոդուկտի/Նախագծերի կառավարում"
+        }
+      },
+      "slug": {
+        "ru": "junior-project-manager-56",
+        "en": "junior-project-manager-54",
+        "am": "junior-project-manager-55"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 3,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "activated_at": {
+        "staffam": "2026-03-04 20:19:35"
+      },
+      "is_repat": 0,
+      "is_hot": false,
+      "is_remote": false,
+      "job_city": {
+        "title": {
+          "ru": "Ереван",
+          "en": "Yerevan",
+          "am": "Երևան"
+        }
+      },
+      "id": 153659,
+      "title": {
+        "ru": "Brokerage Manager (USA Freight Brokerage) – Experienced Only",
+        "am_en": "Brokerage Manager (USA Freight Brokerage) - Experienced Only",
+        "en": "Brokerage Manager (USA Freight Brokerage) – Experienced Only",
+        "am": "Brokerage Manager (USA Freight Brokerage) – Experienced Only"
+      },
+      "deadline": "2026-04-03",
+      "companiesStruct": {
+        "domain_id": 1,
+        "profile_image": "https://cdn.staff.am/staff.am/upload/c/7/9/0/c790a97d.jpg",
+        "id": 11814,
+        "title": {
+          "ru": "United Fleet Corp",
+          "en": "United Fleet Corp",
+          "am": "United Fleet Corp"
+        },
+        "is_unlimited": 0,
+        "is_verified": false,
+        "slug": "united-fleet-corp",
+        "isEmptyProfileImage": false
+      },
+      "category": {
+        "code": "procurement",
+        "id": 23,
+        "title": {
+          "ru": "Закупки/Логистика/Курьер",
+          "en": "Procurement/Logistics/Courier",
+          "am": "Գնումներ/Լոգիստիկա/Սուրհանդակային"
+        }
+      },
+      "slug": {
+        "ru": "brokerage-manager-usa-freight-brokerage-experienced-only-4",
+        "en": "brokerage-manager-usa-freight-brokerage-experienced-only-2",
+        "am": "brokerage-manager-usa-freight-brokerage-experienced-only-3"
+      },
+      "status": 1,
+      "saved_job_id": false,
+      "like_id": false,
+      "is_featured": false,
+      "likeCount": 1,
+      "is_new": true,
+      "itemType": 1,
+      "is_following": false
+    },
+    {
+      "itemType": 0,
+      "image": "https://cdn.staff.am/staff.am/upload/7/d/d/7/7dd702f3.png",
+      "image_dark": "https://cdn.staff.am/staff.am/upload/dark_mode/5/f/b/0/5fb00f83.png",
+      "web_image": "https://cdn.staff.am/staff.am/upload/8/b/9/3/8b93e120.webm",
+      "web_image_mobile": "https://cdn.staff.am/staff.am/upload/7/d/d/7/7dd702f3.png",
+      "web_image_dark": "https://cdn.staff.am/staff.am/upload/dark_mode/f/2/8/4/f2840843.webm",
+      "web_image_mobile_dark": "https://cdn.staff.am/staff.am/upload/dark_mode/5/f/b/0/5fb00f83.png",
+      "link": "https://staff.am/en/banner/1174"
+    }
+  ],
+  "categoryFilters": {
+    "category": [
+      {
+        "key": 7,
+        "doc_count": 228
+      },
+      {
+        "key": 14,
+        "doc_count": 213
+      },
+      {
+        "key": 12,
+        "doc_count": 82
+      },
+      {
+        "key": 10,
+        "doc_count": 77
+      },
+      {
+        "key": 1,
+        "doc_count": 75
+      },
+      {
+        "key": 8,
+        "doc_count": 62
+      },
+      {
+        "key": 6,
+        "doc_count": 61
+      },
+      {
+        "key": 4,
+        "doc_count": 52
+      },
+      {
+        "key": 13,
+        "doc_count": 46
+      },
+      {
+        "key": 9,
+        "doc_count": 37
+      },
+      {
+        "key": 23,
+        "doc_count": 35
+      },
+      {
+        "key": 17,
+        "doc_count": 31
+      },
+      {
+        "key": 16,
+        "doc_count": 30
+      },
+      {
+        "key": 25,
+        "doc_count": 28
+      },
+      {
+        "key": 21,
+        "doc_count": 26
+      },
+      {
+        "key": 2,
+        "doc_count": 24
+      },
+      {
+        "key": 27,
+        "doc_count": 24
+      },
+      {
+        "key": 3,
+        "doc_count": 23
+      },
+      {
+        "key": 51,
+        "doc_count": 22
+      },
+      {
+        "key": 28,
+        "doc_count": 20
+      },
+      {
+        "key": 70,
+        "doc_count": 19
+      },
+      {
+        "key": 19,
+        "doc_count": 18
+      },
+      {
+        "key": 18,
+        "doc_count": 17
+      },
+      {
+        "key": 42,
+        "doc_count": 16
+      },
+      {
+        "key": 40,
+        "doc_count": 15
+      },
+      {
+        "key": 20,
+        "doc_count": 12
+      },
+      {
+        "key": 24,
+        "doc_count": 11
+      },
+      {
+        "key": 34,
+        "doc_count": 11
+      },
+      {
+        "key": 41,
+        "doc_count": 11
+      },
+      {
+        "key": 26,
+        "doc_count": 10
+      },
+      {
+        "key": 38,
+        "doc_count": 9
+      },
+      {
+        "key": 48,
+        "doc_count": 9
+      },
+      {
+        "key": 64,
+        "doc_count": 9
+      },
+      {
+        "key": 69,
+        "doc_count": 9
+      },
+      {
+        "key": 47,
+        "doc_count": 8
+      },
+      {
+        "key": 61,
+        "doc_count": 6
+      },
+      {
+        "key": 11,
+        "doc_count": 5
+      },
+      {
+        "key": 31,
+        "doc_count": 5
+      },
+      {
+        "key": 59,
+        "doc_count": 5
+      },
+      {
+        "key": 65,
+        "doc_count": 5
+      },
+      {
+        "key": 44,
+        "doc_count": 4
+      },
+      {
+        "key": 50,
+        "doc_count": 4
+      },
+      {
+        "key": 29,
+        "doc_count": 3
+      },
+      {
+        "key": 36,
+        "doc_count": 3
+      },
+      {
+        "key": 43,
+        "doc_count": 2
+      },
+      {
+        "key": 63,
+        "doc_count": 2
+      },
+      {
+        "key": 66,
+        "doc_count": 2
+      },
+      {
+        "key": 22,
+        "doc_count": 1
+      },
+      {
+        "key": 35,
+        "doc_count": 1
+      },
+      {
+        "key": 49,
+        "doc_count": 1
+      },
+      {
+        "key": 60,
+        "doc_count": 1
+      },
+      {
+        "key": 68,
+        "doc_count": 1
+      }
+    ],
+    "job_type": [
+      {
+        "key": 1,
+        "doc_count": 1296
+      },
+      {
+        "key": 10,
+        "doc_count": 43
+      },
+      {
+        "key": 2,
+        "doc_count": 28
+      },
+      {
+        "key": 9,
+        "doc_count": 26
+      },
+      {
+        "key": 6,
+        "doc_count": 22
+      },
+      {
+        "key": 5,
+        "doc_count": 10
+      },
+      {
+        "key": 3,
+        "doc_count": 6
+      }
+    ],
+    "job_term": [
+      {
+        "key": 1,
+        "doc_count": 1175
+      },
+      {
+        "key": 5,
+        "doc_count": 154
+      },
+      {
+        "key": 2,
+        "doc_count": 32
+      },
+      {
+        "key": 4,
+        "doc_count": 32
+      },
+      {
+        "key": 7,
+        "doc_count": 19
+      },
+      {
+        "key": 6,
+        "doc_count": 14
+      },
+      {
+        "key": 3,
+        "doc_count": 5
+      }
+    ],
+    "job_city": [
+      {
+        "key": 34,
+        "doc_count": 1267
+      },
+      {
+        "key": 11,
+        "doc_count": 18
+      },
+      {
+        "key": 1,
+        "doc_count": 11
+      },
+      {
+        "key": 48168,
+        "doc_count": 11
+      },
+      {
+        "key": 22,
+        "doc_count": 10
+      },
+      {
+        "key": 20,
+        "doc_count": 9
+      },
+      {
+        "key": 48162,
+        "doc_count": 8
+      },
+      {
+        "key": 14,
+        "doc_count": 7
+      },
+      {
+        "key": 6,
+        "doc_count": 5
+      },
+      {
+        "key": 27,
+        "doc_count": 5
+      },
+      {
+        "key": 5,
+        "doc_count": 4
+      },
+      {
+        "key": 12,
+        "doc_count": 4
+      },
+      {
+        "key": 25,
+        "doc_count": 4
+      },
+      {
+        "key": 26,
+        "doc_count": 4
+      },
+      {
+        "key": 30,
+        "doc_count": 4
+      },
+      {
+        "key": 7,
+        "doc_count": 3
+      },
+      {
+        "key": 18,
+        "doc_count": 3
+      },
+      {
+        "key": 29,
+        "doc_count": 3
+      },
+      {
+        "key": 48156,
+        "doc_count": 3
+      },
+      {
+        "key": 48157,
+        "doc_count": 3
+      },
+      {
+        "key": 48159,
+        "doc_count": 3
+      },
+      {
+        "key": 8,
+        "doc_count": 2
+      },
+      {
+        "key": 10,
+        "doc_count": 2
+      },
+      {
+        "key": 17,
+        "doc_count": 2
+      },
+      {
+        "key": 31,
+        "doc_count": 2
+      },
+      {
+        "key": 33,
+        "doc_count": 2
+      },
+      {
+        "key": 21796,
+        "doc_count": 2
+      },
+      {
+        "key": 42980,
+        "doc_count": 2
+      },
+      {
+        "key": 48152,
+        "doc_count": 2
+      },
+      {
+        "key": 48166,
+        "doc_count": 2
+      },
+      {
+        "key": 48303,
+        "doc_count": 2
+      },
+      {
+        "key": 51695,
+        "doc_count": 2
+      },
+      {
+        "key": 51697,
+        "doc_count": 2
+      },
+      {
+        "key": 51755,
+        "doc_count": 2
+      },
+      {
+        "key": 3,
+        "doc_count": 1
+      },
+      {
+        "key": 4,
+        "doc_count": 1
+      },
+      {
+        "key": 3875,
+        "doc_count": 1
+      },
+      {
+        "key": 13058,
+        "doc_count": 1
+      },
+      {
+        "key": 13124,
+        "doc_count": 1
+      },
+      {
+        "key": 41904,
+        "doc_count": 1
+      },
+      {
+        "key": 45332,
+        "doc_count": 1
+      },
+      {
+        "key": 46881,
+        "doc_count": 1
+      },
+      {
+        "key": 48160,
+        "doc_count": 1
+      },
+      {
+        "key": 48165,
+        "doc_count": 1
+      },
+      {
+        "key": 48318,
+        "doc_count": 1
+      },
+      {
+        "key": 48324,
+        "doc_count": 1
+      },
+      {
+        "key": 51680,
+        "doc_count": 1
+      },
+      {
+        "key": 51681,
+        "doc_count": 1
+      },
+      {
+        "key": 51746,
+        "doc_count": 1
+      },
+      {
+        "key": 51753,
+        "doc_count": 1
+      }
+    ],
+    "job_candidate_level": [
+      {
+        "key": 3,
+        "doc_count": 592
+      },
+      {
+        "key": 4,
+        "doc_count": 328
+      },
+      {
+        "key": 6,
+        "doc_count": 289
+      },
+      {
+        "key": 2,
+        "doc_count": 170
+      },
+      {
+        "key": 1,
+        "doc_count": 34
+      },
+      {
+        "key": 5,
+        "doc_count": 18
+      }
+    ],
+    "job_salary": [
+      {
+        "key": 0,
+        "doc_count": 1279
+      },
+      {
+        "key": 1,
+        "doc_count": 152
+      }
+    ],
+    "tags": [
+      {
+        "key": 13,
+        "doc_count": 31
+      },
+      {
+        "key": 2,
+        "doc_count": 27
+      },
+      {
+        "key": 14,
+        "doc_count": 24
+      },
+      {
+        "key": 5,
+        "doc_count": 20
+      },
+      {
+        "key": 1,
+        "doc_count": 15
+      },
+      {
+        "key": 10,
+        "doc_count": 12
+      },
+      {
+        "key": 16,
+        "doc_count": 8
+      },
+      {
+        "key": 12,
+        "doc_count": 4
+      },
+      {
+        "key": 17,
+        "doc_count": 4
+      },
+      {
+        "key": 11,
+        "doc_count": 2
+      },
+      {
+        "key": 3,
+        "doc_count": 1
+      },
+      {
+        "key": 6,
+        "doc_count": 1
+      },
+      {
+        "key": 15,
+        "doc_count": 1
+      }
+    ]
+  },
+  "totalCount": 1431
+}

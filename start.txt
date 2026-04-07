@@ -1,0 +1,27 @@
+bash# Удали старую папку
+rm -rf it-armenia-vacancies-bot
+
+# Распакуй архив
+unzip it_armenia_bot.zip
+cd it_armenia_bot
+
+# Создай .env
+cp .env.example .env
+nano .env   # вставь BOT_TOKEN
+
+# Установи зависимости
+python -m venv .venv
+//source .venv/bin/activate
+.venv\Scripts\activate
+pip install -r requirements.txt
+
+# Запусти
+python main.py
+
+
+deactivate
+rmdir /s /q .venv
+py -3.11 -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+python main.py

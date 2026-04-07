@@ -12,7 +12,7 @@ from aiogram.exceptions import TelegramRetryAfter, TelegramBadRequest
 
 import config
 import database
-from formatter import format_vacancy
+from formatter import format_vacancy, is_russian_text
 from vacancy import Vacancy
 
 logger = logging.getLogger(__name__)
@@ -36,6 +36,11 @@ async def publish_new_vacancies(bot: Bot, vacancies: List[Vacancy]) -> int:
                 batch_limit,
             )
             break
+
+        # Пропускаем русскоязычные вакансии
+        if is_russian_text(vacancy.title):
+            logger.debug("Пропущена русскоязычная вакансия: %s", vacancy.title)
+            continue
 
         # Проверка дедупликации
         if await database.is_duplicate(
