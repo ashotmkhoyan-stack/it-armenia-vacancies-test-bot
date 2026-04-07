@@ -2,7 +2,8 @@ name: Run Bot
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, master ]
+  workflow_dispatch:
 
 jobs:
   run:
@@ -23,5 +24,4 @@ jobs:
       - name: Run main.py
         run: python main.py
         env:
-          # Если бот использует переменные окружения
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
