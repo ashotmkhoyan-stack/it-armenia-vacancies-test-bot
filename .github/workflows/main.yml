@@ -1,9 +1,9 @@
 name: Run Bot
 
 on:
-  push:
-    branches: [ main, master ]
-  workflow_dispatch:
+  schedule:
+    - cron: '0 */4 * * *'  # каждые 4 часа
+  workflow_dispatch:        # для ручного запуска
 
 jobs:
   run:
